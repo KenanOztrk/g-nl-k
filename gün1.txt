@@ -1,1 +1,3 @@
 bugun github da bir repository olusturdum
+
+ve sonra ekleme yaptım
